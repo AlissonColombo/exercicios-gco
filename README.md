@@ -14,3 +14,6 @@ Branches de bugs
 * bug/erro-a1
 * bug/erro-a2
 * bug/erro-a3
+
+Branche de estilização
+* hotfix/cores

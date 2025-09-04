@@ -1,4 +1,4 @@
-commits usam a regra do https://www.conventionalcommits.org/en/v1.0.0/ 
+commits usam a regra do https://www.conventionalcommits.org/en/v1.0.0/
 
 **main** &rarr; branch principal
 **dev** &rarr; branch de desenvolvimento
